@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T13:52:37.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="7e9dr31AANi8Lm51hxxF" version="14.8.2" type="github">
-  <diagram id="Ijfy7Kx-KEOetB3Wqyad" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-06-28T14:03:16.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Y2kVjIZ7LH2olOgSIZ9G" version="14.8.2" type="github">
+  <diagram id="Ijfy7Kx-KEOetB3Wqyad" name="zone">
     <mxGraphModel dx="1102" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -89,7 +89,7 @@
         <mxCell id="Xcf3TFF7q5ow1nWO3iqj-1" value="Service Zone = Red Zone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="420" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xcf3TFF7q5ow1nWO3iqj-2" value="Redirect rules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xcf3TFF7q5ow1nWO3iqj-2" value="Redirect rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="450" y="430" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Xcf3TFF7q5ow1nWO3iqj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xcf3TFF7q5ow1nWO3iqj-4">
@@ -119,7 +119,7 @@
         <mxCell id="Xcf3TFF7q5ow1nWO3iqj-15" value="OR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="610" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xcf3TFF7q5ow1nWO3iqj-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="Xcf3TFF7q5ow1nWO3iqj-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="45" y="700" width="130" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Xcf3TFF7q5ow1nWO3iqj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xcf3TFF7q5ow1nWO3iqj-37" target="Xcf3TFF7q5ow1nWO3iqj-38">
@@ -134,7 +134,7 @@
         <mxCell id="Xcf3TFF7q5ow1nWO3iqj-37" value="Service Zone &lt;br&gt;! = Red Zone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="65" y="730" width="95" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Xcf3TFF7q5ow1nWO3iqj-38" value="Normal Rules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xcf3TFF7q5ow1nWO3iqj-38" value="Normal Rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="455" y="740" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Xcf3TFF7q5ow1nWO3iqj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xcf3TFF7q5ow1nWO3iqj-40">
@@ -158,8 +158,8 @@
         <mxCell id="Xcf3TFF7q5ow1nWO3iqj-43" value="OR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="185" y="780" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Xcf3TFF7q5ow1nWO3iqj-44" value="Red Zone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="670" width="100" height="20" as="geometry" />
+        <mxCell id="Xcf3TFF7q5ow1nWO3iqj-44" value="Green Zone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Xcf3TFF7q5ow1nWO3iqj-45" value="And" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="920" width="40" height="20" as="geometry" />
